@@ -2,6 +2,9 @@
 
 ## _Make tomorrow a better place_
 
+![imagemgit](https://user-images.githubusercontent.com/105572464/175865486-b308fd8a-be5e-4efc-ace7-e64c1cf976a8.gif)
+
+
 
 - 💻 Studying in Systems Analysis and Development
 - 🌱 I’m currently learning Javascript
