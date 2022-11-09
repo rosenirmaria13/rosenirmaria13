@@ -7,7 +7,7 @@
 
 
 - 💻 Studying in Systems Analysis and Development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Testes automatizados
 - 👩🏽‍🦱 Pronouns: she/her
 - 🤎❤️ I love making the world a better place to live
 
